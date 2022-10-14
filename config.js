@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'ODEyNjM4MDc0NzQ4MTQxNTg4.G89FAF.avGd_l2gGauyOuLRjuiiUpHZbfYpF831G2uMb8',
+        token: 'ODEyNjM4MDc0NzQ4MTQxNTg4.GgjYgO.JiLUsOlh-Qu_Hm6c03pDwb-KWrOZ0HWDMyc-h0',
         playing: 'High School DxD',
         global: false,
         guild: '889354330103234570'
