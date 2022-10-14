@@ -2,7 +2,7 @@ module.exports = {
     app: {
         token: 'ODEyNjM4MDc0NzQ4MTQxNTg4.Gsbk1Y.hsYgmDQOZAxUIDdzpC4zAy97Nj2bKxfZEk9voE',
         playing: 'High School DxD',
-        global: false,
+        global: true,
         guild: '889354330103234570'
     },
 
