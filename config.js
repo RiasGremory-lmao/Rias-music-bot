@@ -3,7 +3,7 @@ module.exports = {
         token: 'ODEyNjM4MDc0NzQ4MTQxNTg4.Gsbk1Y.hsYgmDQOZAxUIDdzpC4zAy97Nj2bKxfZEk9voE',
         playing: 'High School DxD',
         global: true,
-        guild: '889354330103234570'
+        guild: ''
     },
 
     opt: {
